@@ -137,6 +137,23 @@
       ]
     },
     {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "appreciate",
+        "thanks a lot",
+        "thank you very much"
+      ],
+      "responses": [
+        "You're welcome! If you have any more questions, feel free to ask.",
+        "No problem! If there's anything else you need, just let me know.",
+        "Glad I could help! If there's anything else you'd like to know, feel free to ask.",
+        "You're welcome! If you have any other inquiries, don't hesitate to ask.",
+        "Anytime! If you have more questions or need assistance, feel free to reach out."
+      ]
+    },
+    {
       "tag": "goodbye",
       "patterns": [
         "goodbye",
